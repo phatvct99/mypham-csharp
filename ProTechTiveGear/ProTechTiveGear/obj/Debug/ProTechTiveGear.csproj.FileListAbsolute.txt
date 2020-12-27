@@ -1,0 +1,855 @@
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\WebGrease.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CopyComplete
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\WebGrease.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CopyComplete
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\New folder (3)\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\WebGrease.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CopyComplete
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\WebGrease.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CopyComplete
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\WebSiteBanHang\WebBanHang2\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\WebGrease.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CopyComplete
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\WebBanHang2\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\WebGrease.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CopyComplete
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\Webkinhdoanhgiaydep\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\WebGrease.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CopyComplete
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\Webkinhdoanhhoa\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.pdb
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\WebGrease.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CopyComplete
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+C:\Users\ACER\Desktop\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\ApplicationInsights.config
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\ProTechTiveGear.pdb
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.exe.config
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csc.rsp
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.exe.config
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\csi.rsp
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Console.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.exe.config
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\vbc.rsp
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\WebGrease.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Helpers.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Mvc.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Optimization.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.Razor.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Newtonsoft.Json.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csprojAssemblyReference.cache
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CoreCompileInputs.cache
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.csproj.CopyComplete
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+E:\C#\Webkinhdoanhmypham\ProTechTiveGear\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
